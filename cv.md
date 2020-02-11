@@ -1,4 +1,4 @@
-#CV#
+# CV #
 1. **First Name, Last Name:** Yulia Zaripova
 2. **Contact Info:** qwery@gmail.com, 8-999-999-99-99
 3. **Summary:** junior software developer
